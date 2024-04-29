@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Berk
 - 👀 I’m interested in deep learning, embedded, AI, Artifical neural networks
-- 🌱 I’m currently learning embedded 
+- 🌱 I’m currently working as a Game Developer
 - 📫 How to reach me berksvmli@gmail.com or Linkedin: https://www.linkedin.com/in/berk-sevimli/
 
 
